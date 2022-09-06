@@ -8,7 +8,11 @@ Track and pull data from a number of sites using Selenium.
 
 ### Analytics
 
-Calculate insights:
+#### Value
+
+Who is consistently outperforming their value.  What is their actual value, and how much virtual budget is gained by choosing a driver with higher value?
+
+#### Calculate insights:
 
 * What has been the optimal combination of drivers + team to select (and not change) over while constrained to a budget:
 
@@ -16,9 +20,9 @@ Calculate insights:
   * The previous 4 races
   * The previous 8 races
 
-Looking at optimal combinations, who shows up the most.
+#### Looking at optimal combinations, who shows up the most.
 
-20/20 Vision
+#### 20/20 Vision
 * Hindsight: if you could see the future, what was the optimal selections (best path) for any given race?
 * How does a static selection differ from best path?
 
