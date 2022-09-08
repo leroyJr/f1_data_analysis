@@ -13,7 +13,7 @@ Track and pull data from a number of sites using Selenium.
 Who is consistently outperforming their value.  What is their actual value, and how much virtual budget is gained by choosing a driver with higher value?
 
 ##### Driver Points Price
-|    | Driver               |   pts_price |   Current Price |   diff_price |      avg |   median |
+|    | Driver               |   Points Value Price |   Current Price |   Diff |      Mean Points |   Median Points|
 |---:|:---------------------|------------:|----------------:|-------------:|---------:|---------:|
 |  5 | Leclerc  Ferrari     |    25.8847  |            18.7 |     7.18471  | 28.4     |       23 |
 |  1 | Verstappen  Red Bull |    37.3688  |            30.4 |     6.96877  | 41       |       45 |
@@ -37,7 +37,7 @@ Who is consistently outperforming their value.  What is their actual value, and 
 | 18 | Ricciardo  Mclaren   |     5.4686  |            14.2 |    -8.7314   |  6       |        5 |
 
 #### Team Points Price
-|    | Team         |   pts_price |   Current Price |   diff_price |      avg |   median |
+|    | Team         |   Points Value Price |   Current Price |   Diff |      Mean Points |   Median Points|
 |---:|:-------------|------------:|----------------:|-------------:|---------:|---------:|
 |  1 | Red Bull     |    40.5023  |            32.7 |     7.80231  | 60.7333  |       63 |
 |  3 | Ferrari      |    30.988   |            25.8 |     5.18804  | 46.4667  |       47 |
